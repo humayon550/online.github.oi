@@ -1,0 +1,140 @@
+body {background:url(http://topindex.tk/ref/bdmahadi) #000;}
+.image img {content:"Get BdMehedi.TK Script It Full Free";} img { vertical-align: middle; max-width: 100%; }
+a:link, a:visited {
+color : #6086B1;
+text-decoration : none;
+}
+
+
+.link {
+  text-decoration: underline;
+  font-weight: bold;
+  color: #ffffff;
+ }
+
+body {
+color : #787878;
+font-size : 13px;
+background-color : #000;
+font-family : Tahoma;
+margin : 0;
+padding : 0;
+border : 1px solid #3b3b3b;
+margin: auto; max-width: 650px;
+}
+
+
+hr {
+margin-top : 2px;
+margin-bottom : 2px;
+border-top : 1px solid #434343;
+border-right-style : none;
+border-right-width : 0;
+border-bottom-style : none;
+border-bottom-width : 0;
+border-left-style : none;
+border-left-width : 0;
+}
+
+.bmenu{
+color : #0084b5;
+text-shadow : #000000 1px 1px 2px; 
+background-color : #000406;
+background-image : url(img/bmenu.gif);
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #005064;
+}
+.bmenu a {
+color : #0084b5;
+border-bottom : 1px dotted #004354;
+}
+.bmenu a:hover {
+color : #25c5ff;
+border-bottom : 1px dotted #006882;
+}
+
+.logo {
+margin: 1px;
+padding: 1px;
+color : #b94201;
+text-align : center;
+background-color : #020100;
+background-image : url(img/tmn.gif);
+background-repeat : repeat-x;
+background-position : 50% bottom;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border-top : 1px solid #5c2901;
+border-bottom : 1px solid #5c2901;
+border-left : 1px solid #5c2901;
+border-right : 1px solid #5c2901;
+}
+.header{
+margin: 1px;
+padding: 1px;
+background-image : url(img/header.gif);
+color : #a9a9a9;
+text-shadow : #000000 1px 1px 2px; 
+background-color : #0a0a0a;
+background-repeat : repeat-x;
+background-position : 50% top;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #333333;
+}
+
+
+
+
+.footer a:link {
+color : #a9a9a9;
+text-decoration : none;
+border-bottom : 1px dotted #3f3f3f;
+}
+.footer a:hover {
+color : #d2d2d2;
+text-decoration : none;
+border-bottom : 1px dotted #696969;
+}
+.left {
+float : left;
+}
+
+.tmn{
+margin: 1px;
+padding: 1px;
+color : #b94201;
+text-shadow : #000000 1px 1px 2px; 
+background-color : #020100;
+background-image : url(img/tmn.gif);
+background-repeat : repeat-x;
+background-position : 50% bottom;
+margin-top : 1px;
+margin-bottom : 1px;
+padding : 2px;
+border : 1px solid #5c2901;
+}
+.tmn a:link, .tmn a:visited, .fmenu a:link, .fmenu a:visited {
+color : #b94201;
+text-decoration : none;
+border-bottom : 1px dotted #602200;
+}
+.tmn a:hover, .fmenu a:hover {
+color : #ff5a00;
+border-bottom : 1px dotted #933400;
+}
+
+
+
+a:hover { 
+text-decoration: none;  
+font-size: 14px; 
+color : #7CFC00;
+position: relative;
+top: 1px; left: 1px; 
+}

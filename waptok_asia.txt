@@ -1,0 +1,16 @@
+<html>
+<head>
+<title>
+~[Files by Whiznoe]~
+</title>
+</head>
+<body bgcolor = "#3b5998">
+<font face = "lucida handwriting" color = "white" size = "15"><br><center>File ini telah berhasil di download dari</font><br><center><font face = "comic sans ms" color = "white" size = "10"><a href="http://waptok.asia"><b>www.waptok.asia</a></font><br>
+Terima kasih atas kunjungannya.. !!<br><hr> 
+<font face = "lucida handwriting" color = "yellow" size = "5"> This file has been download from</font><br>
+<font face = "comic sans ms" color = "white" size = "10"><a href="http://waptok.asia"><b>www.waptok.asia</a></font><br>Thanks for visit.. !!<br>
+<hr><br>
+<font face = "comic sans ms" color = "white" size = "6"><b>Copyright
+<font face = "times new roman" color = "white" size = "6">&copy; <a href="http://facebook.com/waptok.asia">WAPTOK.ASIA</a>&trade;</font><br><br>
+<font face = "lucida handwriting" color = "yellow" size = "5">"Hargailah Orang Lain Maka Orang Lain Juga Akan Menghargaimu"</font></center></body>
+</html>
